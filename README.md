@@ -8,6 +8,30 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results
 
+### Random Oversampling
+
+![Image of Random Oversample](Resources/oversample_classification.png)
+
+
+### SMOTE Oversampling
+
+![Image of SMOTE Oversampling](Resources/SMOTE_oversample.png)
+
+### Cluster Centroid Undersampling 
+
+![Image of Undersampling](Resources/undersampling.png)
+
+### SMOTEEN
+
+![Image of SMOTEEN](Resources/SMOTEEN.png)
+
+### Balanced Random Forest Classifier
+
+![Image of Random Classifier](Resources/random_classifier.png)
+
+### Easy Ensemble AdaBoost Classifier
+
+![Image of AdaBoost Classifier](Resources/adaboost.png)
 
 ## Summary
 
