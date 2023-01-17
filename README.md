@@ -27,7 +27,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ### Balanced Random Forest Classifier
 
-![Image of Random Classifier](Resources/random_classifier.png)
+![Image of Random Classifier](Resources/random_forest_classifier.png)
 
 ### Easy Ensemble AdaBoost Classifier
 
